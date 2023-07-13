@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin, an Inspiring <a href="https://linkedin.com/in/austin-wendt-526832243">IT Professional</a>☺</h1>
+<h1>Hi, I'm Austin, an Inspiring <a href="https://linkedin.com/in/austin-wendt-526832243" target="_blank">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
